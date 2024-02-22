@@ -10,7 +10,7 @@ This Python script is designed to scale and compress images efficiently. It's pa
   - [Instructions](#instructions)
   - [Arguments](#arguments)
   - [Example](#example)
-- [License](#license)
+
 
 ## Installation
 
